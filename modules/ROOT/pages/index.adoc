@@ -1,3 +1,1 @@
 = Welcome
-
-Welcome to the Product Display and Catalog Browsing documentation. This component is designed to provide customers with a seamless browsing experience, allowing them to easily navigate through product categories, search for specific items, and explore detailed product information. It features advanced filtering and search capabilities, ensuring users can quickly find what they’re looking for. The dynamic and responsive interface adapts to all device types, offering smooth navigation on both desktop and mobile platforms. Whether it's product comparisons, viewing item details, or exploring variants like size and color, this component ensures an engaging and efficient user experience.

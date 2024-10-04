@@ -1,6 +1,1 @@
 = Welcome
-
-Welcome to E-Commerce Solutions GitDocs.
-Here, you'll find comprehensive and up-to-date documentation on all the applications within our portfolio.
-Each project showcases innovative solutions designed to enhance various aspects of the e-commerce ecosystem, from customer experience and inventory management to payment systems and analytics.
-Explore detailed overviews, technical insights, and deployment instructions for each application, providing you with everything you need to understand and contribute to our cutting-edge solutions.
